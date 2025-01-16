@@ -1,0 +1,1 @@
+﻿This project is a .NET Class Library that serves as a centralized repository for all entity models related to database tables, whether the data source is SQL-based or NoSQL-based.
